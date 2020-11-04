@@ -1,4 +1,4 @@
-# spotify-api-fun
+# Spotify API Fun
 Having some fun with the Spotify API and Python!
 
 ## Tutorials to learn to work with the Spotify API
